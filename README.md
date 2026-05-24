@@ -27,7 +27,7 @@ Time series analysis of residential natural gas price dynamics in Italy and Turk
 
 ---
 
-### FIRST ORDER OPTIMIZATION METHODS: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)
+### First Order Optimization Methods: a Comparative Analysis of the Projected Gradient Method and the Frank-Wolfe Algorithm on Portfolio Optimization (2025)
 Comparative analysis of the performances of the Projected Gradient Method and the Frank-Wolfe Algorithm (and variants) on the Markowitz Portfolio Optimization Problem.
 
 🔗 https://github.com/TommasoLazzari/FrankWolfe_PortfolioOptimization
