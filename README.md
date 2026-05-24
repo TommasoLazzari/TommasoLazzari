@@ -6,7 +6,7 @@ This GitHub profile collects self-contained selected projects developed during m
 
 ## Projects
 
-### Lab Statistica (2026)
+### Lab Statistica: Anomaly Detection on Heterogeneous Graphs for the Italian Public Administration (2026)
 Graph-based anomaly detection project focused on public procurement data analysis using Graph Neural Networks and interpretable machine learning techniques.
 
 🔗 https://github.com/TommasoLazzari/Lab_Statistica
