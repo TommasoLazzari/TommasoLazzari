@@ -20,7 +20,7 @@ A convolutional neural network designed for galaxy morphology classification wit
 
 ---
 
-### Performance - Complexity Trade-offs in Lightweight CNN Architectures for Blood Cell Classification
+### Performance - Complexity Trade-offs in Lightweight CNN Architectures for Blood Cell Classification (2026)
 A comparative study of lightweight convolutional neural networks for blood cell classification on the BloodMNIST dataset.
 
 🔗 https://github.com/TommasoLazzari/medmnist_cnn
