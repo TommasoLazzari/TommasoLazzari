@@ -20,6 +20,13 @@ A convolutional neural network designed for galaxy morphology classification wit
 
 ---
 
+### Performance - Complexity Trade-offs in Lightweight CNN Architectures for Blood Cell Classification
+A comparative study of lightweight convolutional neural networks for blood cell classification on the BloodMNIST dataset.
+
+🔗 https://github.com/TommasoLazzari/medmnist_cnn
+
+---
+
 ### Explaining Gas Price Dynamics in Italy and Turkey (2026)
 Time series analysis of residential natural gas price dynamics in Italy and Turkey using an explanatory econometric approach.
 
