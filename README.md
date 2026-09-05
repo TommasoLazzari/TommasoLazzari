@@ -13,6 +13,13 @@ Graph-based anomaly detection project focused on public procurement data analysi
 
 ---
 
+### Deep Reinforcement Learning for Autonomous Driving on Multilane Highway (2026)
+Autonomous driving agent trained via Proximal Policy Optimization (PPO) in dense multilane highway traffic. Investigates safety-regularized reward shaping (crash malus) against a deterministic heuristic baseline, achieving a 0.0% collision rate across 3-, 4-, and 5-lane environments.
+
+🔗 https://github.com/TommasoLazzari/AutonomousDriving_DRL
+
+---
+
 ### DMAGNet: an Interpretable Convolutional Neural Network for Galaxy Morphology Classification using Deep Dream (2026)
 A convolutional neural network designed for galaxy morphology classification with a strong emphasis on model interpretability.
 
