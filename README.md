@@ -1,6 +1,7 @@
 # Tommaso Lazzari
 
-MSc Data Science Student
+MSc Data Science Student at Università di Padova
+Research Intern at Boston Children's Hospital
 
 This GitHub profile collects self-contained selected projects developed during my studies, with a focus on methodological rigor, reproducibility, and real-world applications.
 
