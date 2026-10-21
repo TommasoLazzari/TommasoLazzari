@@ -60,7 +60,7 @@ Comparative analysis of gradient-based optimization methods (fixed step, Armijo 
 ### Modeling and Forecasting Volatility of Financial Returns: A GARCH Analysis of Starbucks and Walmart (2024)
 Analysis and forecasting of financial market volatility using GARCH-family models. The study compares different model specifications (GARCH, EGARCH, APARCH) and innovation distributions (normal, Student-t), with performance validated through Diebold-Mariano tests and rolling correlations.
 
-🔗 https://github.com/TommasoLazzari/garch-analysis
+🔗 https://github.com/TommasoLazzari/Garch_Analysis
 
 ---
 
