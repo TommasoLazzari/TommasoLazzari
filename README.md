@@ -53,7 +53,7 @@ Comparative analysis of the performances of the Projected Gradient Method and th
 ### Gradient and Coordinate Descent Methods: Theory, Implementation, and Experimental Insights (2025)
 Comparative analysis of gradient-based optimization methods (fixed step, Armijo rule, block coordinate descent, coordinate minimization) on synthetic and real data.
 
-🔗 https://github.com/TommasoLazzari/GradientDescentMethods_SemisupervisedLearning
+🔗 https://github.com/TommasoLazzari/Gradient_and_CoordinateDescent_Methods
 
 ---
 
