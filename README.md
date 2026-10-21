@@ -39,7 +39,7 @@ A comparative study of lightweight convolutional neural networks for blood cell 
 ### Explaining Gas Price Dynamics in Italy and Turkey (2026)
 Time series analysis of residential natural gas price dynamics in Italy and Turkey using an explanatory econometric approach.
 
-🔗 https://github.com/TommasoLazzari/GasPrice_TimeSeries
+🔗 https://github.com/TommasoLazzari/GasPrices_TimeSeries
 
 ---
 
